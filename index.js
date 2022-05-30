@@ -3,8 +3,6 @@ let admin;
 admin=username;
 
 
-
-
 console.log(username)
 console.log(admin)
 alert(admin)
