@@ -38,6 +38,11 @@ console.log(undefined + 1)
 console.log(" \t \n" - 2) 
 
 
+let A = +prompt("Первое число?", 1);
+let B = +prompt("Второе число?", 2);
+alert(A +B);
+
+
 
 
 
