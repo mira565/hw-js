@@ -42,6 +42,10 @@ let A = +prompt("Первое число?", 1);
 let B = +prompt("Второе число?", 2);
 alert(A +B);
 
+let num='3';
+alert(num)
+
+
 
 
 
